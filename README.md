@@ -1,4 +1,4 @@
-# Statistical methods for spatial data
+# Statistical methods for spatial data analysis
 Projects:
 
 ### 1.- K-means clustering method for spatial data
